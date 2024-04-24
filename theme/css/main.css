@@ -352,6 +352,7 @@ used for profile image
   position: fixed;
   bottom: 20px;
   right: 20px;
+  z-index: 999999;
 }
 
 /* control the pattern of button */
