@@ -347,3 +347,25 @@ used for profile image
 .styled-table tbody tr:last-of-type {
   border-bottom: 0px solid #f3f3f3;
 }
+
+.floating-button-div {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+/* control the pattern of button */
+.fb {
+  width: 100%;
+  background-color: #2d7788;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}
